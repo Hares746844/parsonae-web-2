@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: 'poppins', 'sans-serif';
+
+}
+h1{
+    font-size: 50px;
+}
+
+.oreng-highlight{
+    color: blue;
+}
+.haf-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.haf-width img{
+    width: 100%;
+}
+.top-banner{
+    
+    background-repeat: no-repeat;
+    background-image: url( image/back-image.png);
+    background-size: 45px;
+    }
+section{
+    height: 635px;
+}
+.dream-area{
+ 
+     
+    background-repeat: no-repeat;
+    background-image: url( image/back-image.png);
+    background-size: 45px;
+}
+a{
+    background-color: aqua;
+}
